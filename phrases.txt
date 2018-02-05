@@ -1,0 +1,4 @@
+let's say допустим
+as well также
+e.g. /* for example */ например
+etc /* et cetera  */ и т.д /* и так далее */
