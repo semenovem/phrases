@@ -45,3 +45,5 @@ What's your phone number (address | email)?
 What's your first name (surname)?
 
 figure out выяснить
+vice versa наоборот
+
