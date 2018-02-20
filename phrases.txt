@@ -46,4 +46,7 @@ What's your first name (surname)?
 
 figure out выяснить
 vice versa наоборот
-
+here is it! вот оно/на/это!
+anything else? что нибудь еще?
+here is your change вот ваша сдача
+here you are! вот возьмите
